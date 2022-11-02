@@ -10,5 +10,5 @@
  
  默认映射端口:31400-31409
  
-  一键安装命令：bash -c "$(wget -O- https://ssur.cc/GsG9Fm3Ah)"
+  安装命令：bash -c "$(wget -O- https://ssur.cc/GsG9Fm3Ah)"
 =========================
